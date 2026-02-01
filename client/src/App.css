@@ -643,6 +643,7 @@
 .about-image {
   flex: 1;
   height: 100%;
+  padding: 40px;
 }
 
 .about-image img {
@@ -650,6 +651,7 @@
   height: 100%;
   object-fit: cover;
   display: block;
+  border-radius: 20px;
 }
 
 /* Showcase Section */
