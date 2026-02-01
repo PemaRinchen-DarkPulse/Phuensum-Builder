@@ -209,7 +209,7 @@ function App() {
       </section>
       
       <footer className="footer fa-copyright">
-          <p>© 2024 Phuensum Builder. All rights reserved.</p>
+          <p>© 2026 Phuensum Builder. All rights reserved.</p>
       </footer>
     </div>
   )
